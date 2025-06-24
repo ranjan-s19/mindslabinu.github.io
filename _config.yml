@@ -58,9 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "MINDS LAB"
+  avatar : "/assets/images/MINDS_LAB.jpg"
+  bio    : "The Machine Intelligence & Data Science (MINDS) Lab, part of the Department of Electronics Engineering at Incheon National University, Korea, focuses on cutting-edge research in 6G wireless communications, 
+  advanced image processing, and intelligent Internet of Things (IoT) systems. The lab explores deep learning for signal and image analysis, AI-powered wireless systems, edge computing, and data-driven applications 
+  in smart environments. With strong collaborations and modern facilities, MINDS Lab bridges theory and real-world applications, fostering innovation in next-generation communication systems, intelligent sensing, 
+  and AI-integrated electronics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
