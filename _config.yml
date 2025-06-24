@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "MINDS LAB"
   avatar : "/assets/images/MINDS_LAB.jpg"
-  bio    : "6G Communication, Images Processing, Inter of Thing (IoT)"
+  bio    : "6G Communication, Images Processing, Internet of Thing (IoT)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
