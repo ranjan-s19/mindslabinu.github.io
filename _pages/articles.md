@@ -6,7 +6,7 @@ title: "Articles"
 
 **Articles** are written pieces of content that provide information, analysis, or commentary on a specific topic. They can be published in newspapers, magazines, journals, or websites. The primary aim of articles is to inform, educate, or engage readers. 
 
-Below are examples of research papers published in reputable journals such as **IEEE**, **MDPI**, and **IEIE** in this **MINDS** Lab.
+Below are research papers published in reputable journals such as **IEEE**, **MDPI**, and **IEIE** through this **MINDS** Lab.
 
 - *Large-Scale Road Network Traffic Congestion Prediction Based on Recurrent High-Resolution Network*
   
