@@ -1,6 +1,6 @@
 main:
-  - title: "Articales"
-    url: /articales/
+  - title: "Articles"
+    url: /articles/
   - title: "Datasets"
     url: /datasets/
   - title: "References"
